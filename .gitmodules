@@ -1,0 +1,3 @@
+[submodule "ORB-SLAM3-ROS2-MONO-Docker"]
+	path = ORB-SLAM3-ROS2-MONO-Docker
+	url = https://github.com/nickoenig37/ORB-SLAM3-ROS2-MONO-Docker.git
